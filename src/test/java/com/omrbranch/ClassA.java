@@ -17,10 +17,13 @@ public class ClassA {
 		System.out.println("tc5");
 	}
 	private void tc6() {
-		System.out.println("tc6");
+		System.out.println("tc5");
 	}
 	private void tc7() {
 		System.out.println("tc7");
+
+		
+
 	}
 
 }
